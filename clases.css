@@ -1,0 +1,39 @@
+/* *{
+    padding: 0px;
+    margin: 0px;
+}
+*/
+
+.cuadrado{
+    width: 100px;
+    height: 100px;
+    margin-right: 5px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#c1{
+    background-color: red;
+    opacity: 1;
+}
+
+#c2{
+    background-color: red;
+    opacity: 0.5;
+    text-decoration: underline;
+}
+
+
+
+#c3{
+    background-color: black;
+    visibility: hidden;
+}
+
+#c4{
+    background-color: black;
+    color: white;
+    opacity: 0.1;
+    text-transform: uppercase;
+}
