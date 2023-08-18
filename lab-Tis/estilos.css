@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cont{
+    border: 1px;
+    margin: 0px !important;
+}
+
+.principal{
+    width: 370px;
+    height: 100px;
+    vertical-align: middle;
+    border-color: black;
+    border-style: solid;
+}
+
+.isq{
+    display: inline-block;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    vertical-align: middle;
+    border-color: black;
+    border-style: solid;
+}
+
+
+.centro{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.isq{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#foto{
+    vertical-align: middle;
+}
+
+.der{
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+
